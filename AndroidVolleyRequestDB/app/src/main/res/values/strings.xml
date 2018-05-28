@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">AndroidVolleyRequestDB</string>
+    <string name="title_activity_home">HomeActivity</string>
+    <string name="sorry_no_internet_connection">No Internet Connection</string>
+</resources>
